@@ -5,6 +5,6 @@ this is a demo
 ## subheader
 watch tutorial
 
-##local dev
+## local dev
 
 1. open index.html
